@@ -79,7 +79,7 @@ const familyServices = [
 export default function AsthenоforoPylaia() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-indigo-50 to-white">
-      {/* Hero Section */
+      {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-indigo-900 via-indigo-800 to-blue-700 text-white py-20">
         <div className="absolute inset-0 bg-black/20"></div>
         <div className="container mx-auto px-4 relative z-10">

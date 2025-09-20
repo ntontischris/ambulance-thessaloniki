@@ -79,7 +79,7 @@ const priorityServices = [
 export default function AsthenоforoNeapoli() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-purple-50 to-white">
-      {/* Hero Section */
+      {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-purple-900 via-purple-800 to-indigo-700 text-white py-20">
         <div className="absolute inset-0 bg-black/20"></div>
         <div className="container mx-auto px-4 relative z-10">
